@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solomon Owamani</h1>
-<h3 align="center">A Java back-end developer from Uganda</h3>
+<h3 align="center">A  Java back-end developer from Uganda</h3>
 
 <p align="left"> <a href="https://twitter.com/origino97" target="blank"><img src="https://img.shields.io/twitter/follow/origino97?logo=twitter&style=for-the-badge" alt="origino97" /></a> </p>
 
