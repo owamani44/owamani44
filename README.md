@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Solomon Owamani</h1>
-<h3 align="center">A passionate back-end developer from Uganda</h3>
+<h3 align="center">A Java back-end developer from Uganda</h3>
 
 <p align="left"> <a href="https://twitter.com/origino97" target="blank"><img src="https://img.shields.io/twitter/follow/origino97?logo=twitter&style=for-the-badge" alt="origino97" /></a> </p>
 
-- 🔭 I’m currently working on [a price-information API](https://github.com/owamani44/BeyiAPI)
+- 🔭 I’m currently working on [Livestock management software](https://github.com/owamani44/Ranzo)
 
-- 🌱 I’m currently learning **ReactJS and AI and Machine learning**
+- 🌱 I’m currently equipping my skills in **ReactJS and AI and Machine learning**
 
 - 👯 I’m looking to collaborate on [Air Pollution Monitoring System an Arduino project](https://github.com/owamani44/Air_Pollution_Monitoring_System)
 
