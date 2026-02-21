@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Livestock management software](https://github.com/owamani44/Ranzo)
 
-- 🌱 I’m currently equipping my skills in **ReactJS and AI and Machine learning**
+- 🌱 I’m currently equipping my skills in **AI and Machine learning**
 
-- 👯 I’m looking to collaborate on [Air Pollution Monitoring System an Arduino project](https://github.com/owamani44/Air_Pollution_Monitoring_System)
+- 👯 I have completed [Air Pollution Monitoring System an Arduino project](https://github.com/owamani44/Air_Pollution_Monitoring_System)
 
 - 🤝 I’m looking for help with **AI and ML operations**
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Java, Spring Boot, React , Docker, Postgres, gRPC, Kafka**
 
 - 📫 How to reach me **owamani44@gmail.com**
 
