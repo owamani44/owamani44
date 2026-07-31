@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/origino97" target="blank"><img src="https://img.shields.io/twitter/follow/origino97?logo=twitter&style=for-the-badge" alt="origino97" /></a> </p>
 
-- 🔭 I’m currently working on a [School Management System](https://github.com/owamani44/Shule360)
+- 🔭 I’m currently working on a [School Management System](https://github.com/owamani44/Shule360-UI)
 
 - 🌱 I’m currently equipping my skills in **AI and Machine learning**
 
